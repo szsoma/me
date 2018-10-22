@@ -1,0 +1,72 @@
+.case-hero {
+    background: url("../img/3daysprint.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.table-wrapper {
+    padding: 4rem .8rem;
+    display: flex;
+	flex-direction: column;
+}
+.case-study-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 3rem;
+}
+
+.case-head {
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.info-client {
+    padding: 1rem .5rem;
+}
+
+.info-client:not(:last-child) {
+    border-bottom: 1px solid #ccc;
+}
+
+.table-wrapper p {
+    margin: 0;
+    color: #888;
+}
+
+.table-wrapper h5 {
+    margin: 0;
+    font-weight: 800;
+    font-size: 1rem;
+}
+
+/*  --  case study  --  */
+
+.overview {
+    grid-column: 1 / 3;
+    padding: 4rem 0;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+h4 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+
+
+
+/* ------------ Desktop Size ------------ */
+
+@media screen and (min-width: 800px) {
+    .info-client {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: stretch;
+    }
+
+    .table-wrapper p {
+        width: 500px;
+    }
+
+}
+
