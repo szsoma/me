@@ -43,6 +43,7 @@
 
 .text-full {
     grid-column: 1 / 4;
+    padding: 1rem 0;
     font-size: 1.2rem;
 }
 
@@ -74,8 +75,13 @@ h5 {
     background: linear-gradient(200deg, #9D3FC9 0%, #3FA0C9 100%);    padding: 1.6rem 2rem;
     border-radius: 12px;
     color: #fff;
-    box-shadow: 0px 6px 16px rgba(67, 20, 129, 0.25);
+    box-shadow: 0px 20px 20px -16px rgba(67, 20, 129, 0.3);
     margin: 1rem auto;
+}
+
+
+.persona-img {
+    text-align: center;
 }
 
 .user-interview h6 {
@@ -99,6 +105,11 @@ h5 {
 .user-interview-q li {
     padding: .8rem 0;
 }
+
+
+
+
+/*  --  day 2  --  */
 
 
 
