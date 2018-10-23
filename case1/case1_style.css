@@ -10,7 +10,7 @@
 }
 .case-study-wrapper {
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 3rem;
+    grid-gap: 2rem;
     padding: 0 1rem;
 }
 
@@ -41,11 +41,9 @@
 
 /*  --  case study  --  */
 
-.overview {
+.text-full {
     grid-column: 1 / 4;
-    padding: 2rem 0;
     font-size: 1.2rem;
-    line-height: 1.8;
 }
 
 h4,
@@ -59,7 +57,8 @@ h4 {
 }
 
 h5 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    font-weight: 800;
 }
 
 /*  --  day 1  --  */
@@ -71,14 +70,38 @@ h5 {
     text-transform: uppercase;
 }
 
-.stakeholder-box h5{
-    font-size: 1.2rem;
-    background: #3FC1C9;
-    padding: 1.6rem 2rem;
+.stakeholder-box {
+    background: linear-gradient(200deg, #9D3FC9 0%, #3FA0C9 100%);    padding: 1.6rem 2rem;
     border-radius: 12px;
     color: #fff;
-    box-shadow: 0px 4px 5px rgba(6, 128, 150, 0.15);
+    box-shadow: 0px 6px 16px rgba(67, 20, 129, 0.25);
+    margin: 1rem auto;
 }
+
+.user-interview h6 {
+    font-size: 1.4rem;
+    margin: 0;
+    font-weight: 800;
+}
+
+.user-interview-q {
+    background: #F2F4F5;
+    padding: 0;
+    border-radius: 12px;
+    margin: 0;
+}
+
+.user-interview-q ul {
+    font-weight: 800;
+    padding: 2rem;
+}
+
+.user-interview-q li {
+    padding: .8rem 0;
+}
+
+
+
 
 
 /* ------------ Desktop Size ------------ */
@@ -98,8 +121,15 @@ h5 {
     /*  --  day 1  --  */
 
     .empathize {
-        grid-column: 1 / 4;
+        padding: 0;
     }
 
+    .stakeholder-box {
+        margin: 0;
+    }
+
+    .user-interview-q ul {
+        padding: 2rem 4rem;
+    }
 }
 

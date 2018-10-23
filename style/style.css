@@ -56,6 +56,12 @@ button:hover {
     transform: translate(3px, -3px);
 }
 
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+}
+
 /*   Head   */
 
 #divider {
@@ -64,7 +70,8 @@ button:hover {
     width: 100%;
 }
 
-.menu ul {
+.menu ul,
+.user-interview-q ul {
     list-style-type: none;
     padding: 1rem 0;
 }
