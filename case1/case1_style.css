@@ -93,6 +93,7 @@ h5 {
     padding: 1.6rem 2rem;
     color: #fff;
     box-shadow: 0px 20px 20px -16px rgba(8, 73, 30, 0.3);
+    margin: 1rem auto;
 }
 
 .persona-img {
@@ -122,6 +123,9 @@ ol {
     padding: .8rem 0;
 }
 
+.customer-journey {
+    width: 100%;
+}
 
 
 
