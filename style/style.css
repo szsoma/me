@@ -163,6 +163,16 @@ footer p {
     margin: 4rem auto;
 }
 
+.social {
+	display: inline-block;
+}
+
+.social a {
+    display: inline-block;
+
+}
+
+
 
 
 

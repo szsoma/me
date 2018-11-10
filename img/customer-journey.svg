@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="410px" viewBox="0 0 800 410" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style type="text/css">
+            @import url('https://fonts.googleapis.com/css?family=Muli:800');
+        </style>
+    </defs>
+    <g id="portfolio-anyagok" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-50.000000, -50.000000)">
+            <g id="customer-journey" transform="translate(50.000000, 50.000000)">
+                <rect id="Rectangle" fill="#F2F4F5" fill-rule="nonzero" x="0" y="0" width="800" height="410" rx="12"></rect>
+                <g id="Group" transform="translate(19.000000, 80.000000)" fill-rule="nonzero">
+                    <path d="M191,2.84217094e-14 L751,3.58159682e-14 C759.333333,3.08864624e-14 763.5,4 763.5,12 C763.5,20 763.5,31 763.5,45 C764.221994,54.6666667 760.055327,59.5 751,59.5 C741.944673,59.5 496.278006,59.5 14,59.5 C4.66666667,59.5 -5.68434189e-14,63.6666667 -5.68434189e-14,72 C-5.37012288e-14,80.3333333 -5.37012288e-14,93.5 -5.68434189e-14,111.5 C-5.68434189e-14,119.833333 4,124 12,124 C20,124 252.5,124 709.5,124" id="Path" stroke="#4A04E7" stroke-width="3"></path>
+                    <polygon id="Triangle" fill="#4A04E7" transform="translate(378.500000, 59.500000) rotate(-90.000000) translate(-378.500000, -59.500000) " points="378.5 52 386 67 371 67"></polygon>
+                    <polygon id="Triangle-Copy" fill="#4A04E7" transform="translate(15.000000, 124.000000) rotate(-270.000000) translate(-15.000000, -124.000000) " points="15 117 22 131 8 131"></polygon>
+                </g>
+                <g id="Group-Copy" transform="translate(19.000000, 204.000000)" fill-rule="nonzero">
+                    <path d="M191,2.84217094e-14 L751,3.58159682e-14 C759.333333,3.08864624e-14 763.5,4 763.5,12 C763.5,20 763.5,31 763.5,45 C764.221994,54.6666667 760.055327,59.5 751,59.5 C741.944673,59.5 496.278006,59.5 14,59.5 C4.66666667,59.5 -5.68434189e-14,63.6666667 -5.68434189e-14,72 C-5.37012288e-14,80.3333333 -5.37012288e-14,93.5 -5.68434189e-14,111.5 C-5.68434189e-14,119.833333 4,124 12,124 C20,124 252.5,124 709.5,124" id="Path" stroke="#4A04E7" stroke-width="3"></path>
+                    <polygon id="Triangle" fill="#4A04E7" transform="translate(378.500000, 59.500000) rotate(-90.000000) translate(-378.500000, -59.500000) " points="378.5 52 386 67 371 67"></polygon>
+                    <polygon id="Triangle-Copy" fill="#4A04E7" transform="translate(15.000000, 124.000000) rotate(-270.000000) translate(-15.000000, -124.000000) " points="15 117 22 131 8 131"></polygon>
+                </g>
+                <g id="1" transform="translate(40.000000, 40.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="1.-Find-the-GetViral" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">1. Find the </tspan>
+                            <tspan x="14" y="42">GetVirality! </tspan>
+                            <tspan x="94.738" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🔍</tspan>
+                        </text>
+                    </g>
+                    <g id="2" transform="translate(183.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="2.-Registration-🙋‍♂️" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">2. Registration </tspan>
+                            <tspan x="117.628" y="24" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🙋‍♂️</tspan>
+                        </text>
+                    </g>
+                    <g id="3" transform="translate(367.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="3.-Browsing-on-the-c" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">3. Browsing on the </tspan>
+                            <tspan x="14" y="42">campaign page </tspan>
+                            <tspan x="123.746" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">📷</tspan>
+                        </text>
+                    </g>
+                    <g id="4" transform="translate(550.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="4.-Find-an-awesome-c" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="13" y="24">4. Find an awesome </tspan>
+                            <tspan x="13" y="42">campaign. Let’s do it! </tspan>
+                            <tspan x="13" y="60" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">👍🏼</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="2" transform="translate(40.000000, 160.000000)">
+                    <g id="1-copy">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="5.-Read-the-conditio" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">5. Read the</tspan>
+                            <tspan x="14" y="42">conditions &amp; apply </tspan>
+                            <tspan x="14" y="60">for the campaign </tspan>
+                            <tspan x="134.792" y="60" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">✍️</tspan>
+                        </text>
+                    </g>
+                    <g id="2-copy" transform="translate(183.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="6.-Waiting-for-the-s" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">6. Waiting for the </tspan>
+                            <tspan x="14" y="42">selection </tspan>
+                            <tspan x="77.826" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🙇‍♂️</tspan>
+                        </text>
+                    </g>
+                    <g id="3-copy" transform="translate(367.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="7.-“You-are-the-chos" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">7. “You are the </tspan>
+                            <tspan x="14" y="42">chosen one” </tspan>
+                            <tspan x="100.324" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">✌️</tspan>
+                        </text>
+                    </g>
+                    <g id="4-copy" transform="translate(550.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="8.-Let’s-think-about" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="13" y="24">8. Let’s think about</tspan>
+                            <tspan x="13" y="42">the content </tspan>
+                            <tspan x="94.228" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🤔</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="3" transform="translate(40.000000, 288.000000)">
+                    <g id="1-copy">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="9.-Sponsor-package-a" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">9. Sponsor package</tspan>
+                            <tspan x="14" y="42">arrived. </tspan>
+                            <tspan x="69.818" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">👌</tspan>
+                        </text>
+                    </g>
+                    <g id="2-copy" transform="translate(183.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="10.-Make-content-to" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">10. Make content </tspan>
+                            <tspan x="14" y="42">to the instagram. </tspan>
+                            <tspan x="14" y="60" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🤳</tspan>
+                        </text>
+                    </g>
+                    <g id="3-copy" transform="translate(367.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="11.-The-company-is-c" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">11. The company is </tspan>
+                            <tspan x="14" y="42">checking my </tspan>
+                            <tspan x="14" y="60">pictures.  </tspan>
+                            <tspan x="79.702" y="60" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🙇‍♂️</tspan>
+                        </text>
+                    </g>
+                    <g id="4-copy" transform="translate(550.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="12.-“It-was-OK!-I-wi" style="font-family: 'Muli';" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="13" y="24">12. “It was OK! I will </tspan>
+                            <tspan x="13" y="42">upload the pics.”</tspan>
+                            <tspan x="126.134" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">📱</tspan>
+                            <tspan x="13" y="65">Get the reward.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
