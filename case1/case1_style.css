@@ -127,13 +127,10 @@ ol {
     width: 100%;
 }
 
-
-
-
-/*  --  day 2  --  */
-
-
-
+.proto iframe {
+    width: 100%;
+    min-height: 350px;
+}
 
 
 /* ------------ Desktop Size ------------ */
@@ -175,6 +172,10 @@ ol {
     .user-interview-q ul,
     ol {
         padding: 2rem 4rem;
+    }
+
+    .proto iframe {
+        min-height: 500px;
     }
 }
 

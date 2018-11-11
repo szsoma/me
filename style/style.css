@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Muli:600,700,800');
-
 :root {
     --text-color: #110224;
 }
@@ -113,6 +112,7 @@ button:hover {
 .logo a:active,
 .logo a:hover {
     color: var(--text-color);
+    text-decoration: none;
 }
 
 .logo span {
@@ -160,18 +160,13 @@ h3 {
 footer p {
     color: #999;
     font-size: .8rem;
-    margin: 4rem auto;
+    margin: 4rem auto 1rem;
 }
 
-.social {
-	display: inline-block;
-}
-
-.social a {
+.social a{
     display: inline-block;
-
+    margin: 0 1rem 3rem;
 }
-
 
 
 
