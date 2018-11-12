@@ -241,6 +241,10 @@ footer p {
         grid-row: 1;
     }
 
+    .case-head {
+        grid-column: 1 / 3;
+    }
+
     .describe,
     .me {
         text-align: left;
