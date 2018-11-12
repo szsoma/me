@@ -201,6 +201,10 @@ footer p {
     font-size: 1rem;
 }
 
+.ui-design {
+    box-shadow: 0px 30px 70px -10px rgba(4, 27, 65, 0.25);
+}
+
 
 
 
