@@ -1,0 +1,54 @@
+.case-hero {
+    background: url("../case5/img/print-video-head.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.table-wrapper {
+    padding: 4rem .8rem;
+    display: flex;
+	flex-direction: column;
+}
+
+/*  --  case study  --  */
+
+.text-full {
+    grid-column: 1 / 4;
+    padding: 1rem 0;
+    font-size: 1.2rem;
+}
+
+h4,
+h5 {
+    margin: 0;
+    font-weight: 800;
+}
+
+h4 {
+    font-size: 2rem;
+}
+
+h5 {
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+
+footer {
+    border-top: 1px solid #ccc;
+    margin: 10rem auto 1rem;
+}
+
+/*  --  to the top  --  */
+
+.to-the-top {
+    position: fixed;
+    right: 1.4rem;
+    bottom: 1.4rem;
+}
+
+
+/* ------------ Desktop Size ------------ */
+
+@media screen and (min-width: 800px) {
+
+}
+

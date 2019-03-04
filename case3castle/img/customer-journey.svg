@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="458px" viewBox="0 0 800 458" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <style type="text/css">
+            @import url('https://fonts.googleapis.com/css?family=Muli:800');
+        </style>
+    </defs>
+ <g id="portfolio-anyagok" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-50.000000, -50.000000)">
+            <g id="customer-journey" transform="translate(50.000000, 50.000000)">
+                <rect id="Rectangle" fill="#F2F4F5" fill-rule="nonzero" x="0" y="0" width="800" height="458" rx="12"></rect>
+                <text id="Hi!-This-is-an-SVG-i" opacity="0.398107" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                    <tspan x="197" y="54">Hi! This is an SVG image. On mobile, just</tspan>
+                </text>
+                <text id="to-zoom-in." opacity="0.398107" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                    <tspan x="524" y="54">to zoom in.</tspan>
+                </text>
+                <g id="pinch" opacity="0.297256" transform="translate(481.000000, 30.000000)" fill="#000000">
+                    <path d="M26.9795757,7.85229389 C27.2545794,4.36162191 24.7203364,1.30306483 21.3191849,1.02088891 C18.116708,0.755160047 15.2501823,3.05285936 14.7257252,6.30613896 C14.6936747,6.56446995 14.6778425,6.82465042 14.6783574,7.08502904 C14.6822832,9.07023437 15.5929554,10.938659 17.1383951,12.1324904 L16.127195,20.5871995 L15.3034067,19.2714354 C15.3157636,19.1129096 15.3322393,18.9543838 15.3322393,18.795858 C15.3543786,15.5857106 12.8367401,12.964949 9.70891901,12.9422269 C6.81562015,12.9212223 4.37205821,15.1418384 4.04222111,18.0920035 C4.01390338,18.3265556 3.99980888,18.562693 4.00000196,18.7990285 C4.00296245,21.7318879 6.13432151,24.2031069 8.97053442,24.5619696 C9.48385748,24.6302678 10.0040669,24.6220773 10.5151374,24.5376624 L13.9606319,30.0237117 L13.7546848,31.7421314 L15.7987094,32 L16.0963029,29.5217134 L10.6253191,20.8112493 C10.2286136,20.1776745 10.400515,19.3345815 11.0114699,18.9173945 C11.6388361,18.5089263 12.4689959,18.6869376 12.8845584,19.3189931 L14.3962099,21.7264716 C15.0124421,22.7076141 16.2870614,22.9903185 17.2430419,22.3578666 C17.7564937,22.018159 18.0964995,21.4620638 18.1712196,20.8397839 L19.5778381,9.05180575 C19.6494691,8.47279028 20.164916,8.06300109 20.7290822,8.13651743 C21.2404102,8.20316432 21.6249519,8.64749891 21.6290709,9.17651271 C21.6288135,9.22063572 21.6264322,9.26475873 21.6218627,9.30861754 L20.77645,16.3830954 L23.484654,17.603744 L24.3084422,15.6686725 L23.0017081,15.0789565 L23.2612014,12.9018689 C25.2949287,12.0270047 26.7145476,10.0990668 26.9795757,7.85229389 Z M11.7477306,16.5722695 C9.86814184,16.5723356 8.34445533,18.1361265 8.34451969,20.0651873 C8.34451969,20.7382614 8.53405535,21.3970021 8.89021506,21.9621466 L9.20531407,22.4641449 C7.40964873,22.2279415 6.06339849,20.6612443 6.05947263,18.8032559 C6.05979442,18.6520619 6.06867589,18.5010661 6.08624575,18.350929 C6.32083233,16.3293287 8.10774492,14.8856872 10.0774999,15.1264482 C11.099834,15.2514194 12.0208036,15.820593 12.6065299,16.6895786 C12.3263132,16.6130239 12.0377298,16.5735906 11.7477306,16.5722695 Z M20.9772484,6.02184936 L20.9772484,6.03241775 C19.2896409,5.81391636 17.7489638,7.04090602 17.536066,8.7729985 C17.5352937,8.77927348 17.5345214,8.78554846 17.5338135,8.79182344 L17.4545238,9.45234759 C16.9876676,8.7552304 16.7364765,7.92983942 16.7337091,7.0839722 C16.7340309,6.90734804 16.7447144,6.73085599 16.7656309,6.55555288 C17.064769,4.24114231 19.1353737,2.61380895 21.3904297,2.92082058 C23.4201024,3.19718388 24.9439177,4.96164205 24.9674728,7.06283542 C24.9668293,7.23945958 24.9561458,7.41588558 24.9355511,7.59125474 C24.8168741,8.61242508 24.3359233,9.55301147 23.5845383,10.2333513 L23.6658874,9.55169042 C23.8718344,7.81537059 22.6687818,6.23585919 20.9772484,6.02184936 Z" id="Shape" fill-rule="nonzero"></path>
+                    <polygon id="Path" points="30.0510773 19 29.2031038 20.8936156 30.7155341 21.54516 29.9540455 27.6252068 26.2995329 31.3534887 26 33.7476558 28.0925117 34 28.3076691 32.2894374 31.9621817 28.5611555 33 20.2699945"></polygon>
+                    <polygon id="Rectangle" transform="translate(26.904322, 18.295391) rotate(23.683837) translate(-26.904322, -18.295391) " points="25.8615592 17.2289185 27.920777 17.255239 27.9470843 19.3618636 25.8878664 19.3355431"></polygon>
+                    <polygon id="Path" transform="translate(11.000000, 3.000000) rotate(-180.000000) translate(-11.000000, -3.000000) " points="13.2567023 3.89731908 11.5892763 3.89731908 14 1.48659541 12.5134046 0 10.1026809 2.41072367 10.1026809 0.743297705 8 0.743297705 8 6 13.2567023 6"></polygon>
+                    <polygon id="Path" transform="translate(3.000000, 11.000000) rotate(-180.000000) translate(-3.000000, -11.000000) " points="3.89731908 13.2567023 6 13.2567023 6 8 0.743297705 8 0.743297705 10.1026809 2.41072367 10.1026809 0 12.5134046 1.48659541 14 3.89731908 11.5892763"></polygon>
+                </g>
+                <g id="Group" transform="translate(19.000000, 134.000000)" fill-rule="nonzero">
+                    <path d="M191,2.84217094e-14 L751,3.58159682e-14 C759.333333,3.08864624e-14 763.5,4 763.5,12 C763.5,20 763.5,31 763.5,45 C764.221994,54.6666667 760.055327,59.5 751,59.5 C741.944673,59.5 496.278006,59.5 14,59.5 C4.66666667,59.5 -5.68434189e-14,63.6666667 -5.68434189e-14,72 C-5.37012288e-14,80.3333333 -5.37012288e-14,93.5 -5.68434189e-14,111.5 C-5.68434189e-14,119.833333 4,124 12,124 C20,124 252.5,124 709.5,124" id="Path" stroke="#4A04E7" stroke-width="3"></path>
+                    <polygon id="Triangle" fill="#4A04E7" transform="translate(378.500000, 59.500000) rotate(-90.000000) translate(-378.500000, -59.500000) " points="378.5 52 386 67 371 67"></polygon>
+                    <polygon id="Triangle-Copy" fill="#4A04E7" transform="translate(15.000000, 124.000000) rotate(-270.000000) translate(-15.000000, -124.000000) " points="15 117 22 131 8 131"></polygon>
+                </g>
+                <g id="Group-Copy" transform="translate(19.000000, 258.000000)" fill-rule="nonzero">
+                    <path d="M191,2.84217094e-14 L751,3.58159682e-14 C759.333333,3.08864624e-14 763.5,4 763.5,12 C763.5,20 763.5,31 763.5,45 C764.221994,54.6666667 760.055327,59.5 751,59.5 C741.944673,59.5 496.278006,59.5 14,59.5 C4.66666667,59.5 -5.68434189e-14,63.6666667 -5.68434189e-14,72 C-5.37012288e-14,80.3333333 -5.37012288e-14,93.5 -5.68434189e-14,111.5 C-5.68434189e-14,119.833333 4,124 12,124 C20,124 252.5,124 709.5,124" id="Path" stroke="#4A04E7" stroke-width="3"></path>
+                    <polygon id="Triangle" fill="#4A04E7" transform="translate(378.500000, 59.500000) rotate(-90.000000) translate(-378.500000, -59.500000) " points="378.5 52 386 67 371 67"></polygon>
+                    <polygon id="Triangle-Copy" fill="#4A04E7" transform="translate(15.000000, 124.000000) rotate(-270.000000) translate(-15.000000, -124.000000) " points="15 117 22 131 8 131"></polygon>
+                </g>
+                <g id="1" transform="translate(40.000000, 94.000000)">
+                    <g>
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="1.-Find-the-GetViral" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">1. Find the </tspan>
+                            <tspan x="14" y="42">GetVirality! </tspan>
+                            <tspan x="94.738" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🔍</tspan>
+                        </text>
+                    </g>
+                    <g id="2" transform="translate(183.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="2.-Registration-🙋‍♂️" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">2. Registration </tspan>
+                            <tspan x="117.628" y="24" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🙋‍♂️</tspan>
+                        </text>
+                    </g>
+                    <g id="3" transform="translate(367.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="3.-Browsing-on-the-c" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">3. Browsing on the </tspan>
+                            <tspan x="14" y="42">campaign page </tspan>
+                            <tspan x="123.746" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">📷</tspan>
+                        </text>
+                    </g>
+                    <g id="4" transform="translate(550.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="4.-Find-an-awesome-c" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="13" y="24">4. Find an awesome </tspan>
+                            <tspan x="13" y="42">campaign. Let’s do it! </tspan>
+                            <tspan x="13" y="60" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">👍🏼</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="2" transform="translate(40.000000, 214.000000)">
+                    <g id="1-copy">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="5.-Read-the-conditio" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">5. Read the</tspan>
+                            <tspan x="14" y="42">conditions &amp; apply </tspan>
+                            <tspan x="14" y="60">for the campaign </tspan>
+                            <tspan x="134.792" y="60" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">✍️</tspan>
+                        </text>
+                    </g>
+                    <g id="2-copy" transform="translate(183.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="6.-Waiting-for-the-s" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">6. Waiting for the </tspan>
+                            <tspan x="14" y="42">selection </tspan>
+                            <tspan x="77.826" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🙇‍♂️</tspan>
+                        </text>
+                    </g>
+                    <g id="3-copy" transform="translate(367.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="7.-“You-are-the-chos" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">7. “You are the </tspan>
+                            <tspan x="14" y="42">chosen one” </tspan>
+                            <tspan x="100.324" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">✌️</tspan>
+                        </text>
+                    </g>
+                    <g id="4-copy" transform="translate(550.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="8.-Let’s-think-about" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="13" y="24">8. Let’s think about</tspan>
+                            <tspan x="13" y="42">the content </tspan>
+                            <tspan x="94.228" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🤔</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="3" transform="translate(40.000000, 342.000000)">
+                    <g id="1-copy">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="9.-Sponsor-package-a" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">9. Sponsor package</tspan>
+                            <tspan x="14" y="42">arrived. </tspan>
+                            <tspan x="69.818" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">👌</tspan>
+                        </text>
+                    </g>
+                    <g id="2-copy" transform="translate(183.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="10.-Make-content-to" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">10. Make content </tspan>
+                            <tspan x="14" y="42">to the instagram. </tspan>
+                            <tspan x="14" y="60" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🤳</tspan>
+                        </text>
+                    </g>
+                    <g id="3-copy" transform="translate(367.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="11.-The-company-is-c" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="14" y="24">11. The company is </tspan>
+                            <tspan x="14" y="42">checking my </tspan>
+                            <tspan x="14" y="60">pictures.  </tspan>
+                            <tspan x="79.702" y="60" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">🙇‍♂️</tspan>
+                        </text>
+                    </g>
+                    <g id="4-copy" transform="translate(550.000000, 0.000000)">
+                        <rect id="Rectangle-Copy" stroke="#4A04E7" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="170" height="80" rx="12"></rect>
+                        <text id="12.-“It-was-OK!-I-wi" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" fill="#000000">
+                            <tspan x="13" y="24">12. “It was OK! I will </tspan>
+                            <tspan x="13" y="42">upload the pics.”</tspan>
+                            <tspan x="126.134" y="42" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="normal">📱</tspan>
+                            <tspan x="13" y="65">Get the reward.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
