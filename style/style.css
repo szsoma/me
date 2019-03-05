@@ -172,6 +172,7 @@ h3 {
     font-weight: 800;
 }
 
+
 footer p {
     color: #999;
     font-size: .8rem;
@@ -223,13 +224,15 @@ footer p {
 
 
 
+
 /* ------------ Desktop Size ------------ */
 
 @media screen and (min-width: 800px) {
     .me-content,
     .wrapper,
     .table-wrapper,
-    .case-study-wrapper {
+    .case-study-wrapper,
+    .img-2col-wrapper {
         display: grid;
         width: 800px;
         margin: auto;
@@ -242,6 +245,10 @@ footer p {
     .wrapper {
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 0;
+    }
+
+    .img-2col-wrapper {
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .logo {
@@ -260,6 +267,7 @@ footer p {
         grid-column: 1 / 3;
     }
 
+
     .describe,
     .me {
         text-align: left;
@@ -275,6 +283,7 @@ footer p {
         grid-column: 2 / 4;
         grid-row: 2;
     }
+
 
     /* --- Case Study CSS --- */
 
@@ -292,5 +301,6 @@ footer p {
         justify-content: space-between;
         align-items: stretch;
     }
+
 
 }
