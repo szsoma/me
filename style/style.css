@@ -3,9 +3,6 @@
     --text-color: #110224;
 }
 
-* {
-    transition: all ease-in-out 300ms;
-}
 
 body {
     font-family: 'Muli', sans-serif;
@@ -37,6 +34,7 @@ body {
 
 button,
 button:visited {
+  transition: all ease-in-out 300ms;
   padding: 12px 35px;
   color: #fff;
   border: none;
@@ -52,7 +50,7 @@ button:visited {
 button:active,
 button:hover {
     box-shadow: 0px 25px 15px -15px rgba(4, 41, 99, .4);
-    transform: translate(3px, -3px);
+    transform: translate(0, -3px);
 }
 
 .img-responsive {
@@ -123,6 +121,7 @@ a:active {
     text-decoration: none;
 }
 
+.logo a,
 .logo a:visited,
 .logo a:active,
 .logo a:hover {
@@ -153,6 +152,7 @@ h2 {
     margin: 4rem 0;
 }
 
+/*   Boxes   */
 
 .work-box {
     padding: 2rem;
@@ -160,6 +160,10 @@ h2 {
     margin: 1rem;
     box-shadow: 0px 4px 5px rgba(9, 60, 88, 0.15);
     border-radius: 12px;
+}
+
+.box-5 {
+    order: 0;
 }
 
 .tag {

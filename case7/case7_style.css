@@ -1,5 +1,5 @@
 .case-hero {
-    background: url("../case5/img/print-video-head.jpg") no-repeat center center;
+    background: url("../case7/img/feedback-app-head.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -32,14 +32,22 @@ h5 {
     font-weight: 800;
 }
 
-
-.printlink:hover,
-.printlink:active {
-    border: none;
-    transform: translateY(-10px);
-    transition: all ease-in-out 300ms;
+.user-interview-q {
+    background: #F2F4F5;
+    padding: 0;
+    border-radius: 12px;
+    margin: 0;
 }
 
+.user-interview-q ul,
+ol {
+    font-weight: 800;
+    padding: 2rem;
+}
+
+.user-interview-q li {
+    padding: .8rem 0;
+}
 
 
 footer {
