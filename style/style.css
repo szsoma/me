@@ -225,7 +225,12 @@ footer p {
     box-shadow: 0px 30px 70px -10px rgba(4, 27, 65, 0.25);
 }
 
-
+.adv ul {
+    list-style-type: none;
+    font-weight: 300;
+    color: #aaa;
+    padding: 0;
+}
 
 
 
