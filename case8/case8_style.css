@@ -1,5 +1,5 @@
 .case-hero {
-    background: url("../case7/img/feedback-app-head.jpg") no-repeat center center;
+    background: url("../case8/img/branding-head.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -30,6 +30,20 @@ h4 {
 h5 {
     font-size: 1.2rem;
     font-weight: 800;
+}
+
+h5, h6 {
+    margin:0;
+}
+h6 {
+    margin-top: 2rem;
+}
+
+.img-responsive {
+    margin-bottom: 2rem;
+}
+.tags {
+    color: #888;
 }
 
 .user-interview-q {
