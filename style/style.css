@@ -34,7 +34,7 @@ body {
 
 button,
 button:visited {
-  transition: all ease-in-out 300ms;
+  transition: all ease-in-out 250ms;
   padding: 12px 35px;
   color: #fff;
   border: none;
@@ -43,13 +43,13 @@ button:visited {
   border-radius: 5px;
   cursor: pointer;
   background: linear-gradient(218deg, #1825e0, #4206ce);
-  box-shadow: 0px 15px 15px -10px rgba(4, 41, 99, .8);
+  box-shadow: 0px 2px 2px 0px rgba(4, 41, 99, .4);
   text-decoration: none;
 }
 
 button:active,
 button:hover {
-    box-shadow: 0px 25px 15px -15px rgba(4, 41, 99, .4);
+    box-shadow: 0px 18px 13px -13px rgba(4, 41, 99, .4);
     transform: translate(0, -3px);
 }
 
