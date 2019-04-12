@@ -17,6 +17,13 @@
     font-size: 1.2rem;
 }
 
+.days {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #aaa;
+    text-transform: uppercase;
+}
+
 h4,
 h5 {
     margin-bottom: 1.5rem;

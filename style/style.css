@@ -21,6 +21,10 @@ body {
     display: grid;
 }
 
+section {
+    padding: 4rem 0;
+}
+
 .me-content {
     padding: .8rem;
 }
@@ -143,8 +147,16 @@ a:active {
     width: 100%;
     background-color: #F2F4F5;
     border-top: 1px solid #DCE3E8;
-    padding-bottom: 4rem;
+    padding: 4rem 0;
     margin-top: 4rem;
+}
+
+.turquoise-bg {
+    background-color: -webkit-gradient(linear, left bottom, left top, from(#115460), color-stop(30%, #115460), to(rgba(17,84,96,0)));
+}
+
+.beige-bg {
+    background-color: #f5e9dd;
 }
 
 h2 {
