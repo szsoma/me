@@ -3,13 +3,6 @@
     background-size: cover;
 }
 
-.table-wrapper {
-    padding: 4rem .8rem;
-    display: flex;
-	flex-direction: column;
-}
-
-
 /*  --  case study  --  */
 
 .text-full {
@@ -47,13 +40,6 @@ footer {
 }
 
 /*  --  day 1  --  */
-
-.days {
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: #aaa;
-    text-transform: uppercase;
-}
 
 .stakeholder-box {
     background: linear-gradient(200deg, #9D3FC9 0%, #3FA0C9 100%);

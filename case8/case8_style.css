@@ -3,25 +3,12 @@
     background-size: cover;
 }
 
-.table-wrapper {
-    padding: 4rem .8rem;
-    display: flex;
-	flex-direction: column;
-}
-
 /*  --  case study  --  */
 
 .text-full {
     grid-column: 1 / 4;
     padding: 1rem 0;
     font-size: 1.2rem;
-}
-
-.days {
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: #aaa;
-    text-transform: uppercase;
 }
 
 h4,
@@ -50,7 +37,8 @@ h6 {
     margin-bottom: 2rem;
 }
 .tags {
-    color: #888;
+    color: #000;
+    opacity: .4;
 }
 
 .user-interview-q {
@@ -84,6 +72,10 @@ footer {
     bottom: 1.4rem;
 }
 
+.offer {
+    padding: 3rem 4rem;
+    border-radius: 10px;
+}
 
 /* ------------ Desktop Size ------------ */
 

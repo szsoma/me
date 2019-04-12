@@ -2,15 +2,6 @@
     background: url("../case2/img/korfu-head.jpg") no-repeat center center;
     background-size: cover;
 }
-
-
-
-.table-wrapper {
-    padding: 4rem .8rem;
-    display: flex;
-	flex-direction: column;
-}
-
 /*  --  case study  --  */
 
 .text-full {

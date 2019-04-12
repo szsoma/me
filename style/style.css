@@ -22,7 +22,14 @@ body {
 }
 
 section {
-    padding: 4rem 0;
+    padding: 3rem 0;
+}
+
+.table-wrapper {
+    padding: 0 .8rem;
+    display: flex;
+    flex-direction: column;
+    grid-gap: 0;
 }
 
 .me-content {
@@ -143,20 +150,26 @@ a:active {
     align-self: center;
 }
 
-.grey-bg {
+.color-bg {
     width: 100%;
-    background-color: #F2F4F5;
     border-top: 1px solid #DCE3E8;
     padding: 4rem 0;
     margin-top: 4rem;
 }
 
-.turquoise-bg {
-    background-color: -webkit-gradient(linear, left bottom, left top, from(#115460), color-stop(30%, #115460), to(rgba(17,84,96,0)));
+.grey-bg {
+    background-color: #F2F4F5;
+}
+.blue-bg {
+    background-color: #61c0f7;
 }
 
-.beige-bg {
-    background-color: #f5e9dd;
+.yellow-bg {
+    background-color: #FFC700;
+}
+
+.green-bg {
+    background-color: #92da81;
 }
 
 h2 {
@@ -188,6 +201,14 @@ h3 {
     font-weight: 800;
 }
 
+.days {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #000;
+    opacity: .3;
+    text-transform: uppercase;
+}
+
 
 footer p {
     color: #999;
@@ -198,6 +219,13 @@ footer p {
 .social a{
     display: inline-block;
     margin: 0 1rem 3rem;
+}
+
+.img-link,
+.img-link:hover,
+.img-link:visited,
+.img-link:active {
+    border-bottom: none;
 }
 
 /* ------------ Case Study CSS --------------*/
@@ -258,6 +286,10 @@ footer p {
         width: 800px;
         margin: auto;
         grid-gap: 3rem;
+    }
+
+    .table-wrapper {
+        grid-gap: 0;
     }
 
     .me-content {
