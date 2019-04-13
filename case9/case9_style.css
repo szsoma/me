@@ -1,5 +1,5 @@
 .case-hero {
-    background: url("../case4/img/anim-head.jpg") no-repeat center center;
+    background: url("../case9/img/illu-head.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -13,7 +13,7 @@
 
 h4,
 h5 {
-    margin: 0;
+    margin-bottom: 1.5rem;
     font-weight: 800;
 }
 
@@ -25,6 +25,39 @@ h5 {
     font-size: 1.2rem;
     font-weight: 800;
 }
+
+h5, h6 {
+    margin:0;
+}
+h6 {
+    margin-top: 2rem;
+}
+
+.img-responsive {
+    margin-bottom: 2rem;
+}
+.tags {
+    color: #000;
+    opacity: .4;
+}
+
+.user-interview-q {
+    background: #F2F4F5;
+    padding: 0;
+    border-radius: 12px;
+    margin: 0;
+}
+
+.user-interview-q ul,
+ol {
+    font-weight: 800;
+    padding: 2rem;
+}
+
+.user-interview-q li {
+    padding: .8rem 0;
+}
+
 
 footer {
     border-top: 1px solid #ccc;
@@ -39,10 +72,13 @@ footer {
     bottom: 1.4rem;
 }
 
+.offer {
+    padding: 3rem 4rem;
+    border-radius: 10px;
+}
 
 /* ------------ Desktop Size ------------ */
 
 @media screen and (min-width: 800px) {
 
 }
-
